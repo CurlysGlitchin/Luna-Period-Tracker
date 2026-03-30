@@ -60,7 +60,7 @@ Live stats displayed at the top of the page:
 If hosted on GitHub Pages, visit:
 
 ```
-(https://curlysglitchin.github.io/Luna-Period-Tracker/)
+https://curlysglitchin.github.io/Luna-Period-Tracker/
 ```
 
 ### Option 2: Run Locally
